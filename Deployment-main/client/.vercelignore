@@ -1,0 +1,6 @@
+# .vercelignore
+/server/
+/backend/
+*.log
+node_modules/
+.env.local
